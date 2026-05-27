@@ -4,7 +4,7 @@
 Un script interactivo y ligero desarrollado en Python que combina entradas del usuario de forma creativa para sugerir un nombre único y personalizado para una marca o negocio de cervecería artesanal.
 
 ### Vista Previa de la Ejecución
-![Ejecución del Script en Consola](image_81cb05.png)
+![Ejecución del Script en Consola](imagen1.png)
 
 ## 📂 Archivo del Proyecto
 Puedes visualizar el archivo `.py`
