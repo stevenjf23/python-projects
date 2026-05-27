@@ -8,7 +8,7 @@
 
 A continuación, puedes explorar mis proyectos:
 
-1. **[Generador de Nombres de Cervecería](./1.%20Generador%20Nombres)**
+1. **[Generador de Nombres](./1.%20Creador%20Nombres)**
 2. **[Calculador de Comisiones](./2.%20Calculador%20Comisiones)**
 
 ## 📫 Contacto
