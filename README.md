@@ -2,7 +2,7 @@
 
 ¡Bienvenido/a a mi portafolio! En este repositorio comparto mis proyectos desarrollados en Python.
 
-![Banner del Portafolio](./python1.png)
+![Banner del Portafolio](./python2.png)
 
 ## 📂 Proyectos Destacados
 
